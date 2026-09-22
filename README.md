@@ -3,6 +3,13 @@
 </p>
 
 # هَيّا | HAYYA
+
+
+### Technology Snapshot
+
+**Node.js • Web Application • SQLite • API-Oriented Architecture • PostgreSQL-Ready**
+
+**Focus:** Student Pickup • School Dismissal • Workflow Automation • Safe Handover
 ## Smart & Secure Student Pickup Management
 
 > **From “I’m here” to safe handover — one coordinated school dismissal workflow.**
